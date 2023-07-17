@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="solutions" type="id" />
+    <item name="events" type="id" />
+    <item name="talk" type="id" />
+    <item name="contact" type="id" />
+</resources>
